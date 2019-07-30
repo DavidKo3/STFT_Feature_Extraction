@@ -14,17 +14,7 @@ print(type(y))
 print(y.shape)
 
 
-
-
-
-
 X = np.arange(189)
-
-# plt.imshow(D)
-
-# X = librosa.stft(y)
-# print(X.shape)
-
 
 #display waveform
 plt.subplot(411)
